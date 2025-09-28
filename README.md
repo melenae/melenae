@@ -22,7 +22,7 @@ Currently studying at the University of Europe for Applied Sciences.
 
 ## 🌊 Favorite Project
 
-- [surfing-website.github.io](https://github.com/melenae/surfing-website.github.io)  
+- [vilamourasurfing.github.io](https://github.com/melenae/vilamourasurfing.github.io)  
   _A showcase of my passion for web development and design._
 
 ---
