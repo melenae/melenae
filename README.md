@@ -1,44 +1,78 @@
-# 👋 Hi, I’m Artem Ermolaev
+<h1 align="center">👋 Hi, I'm Artem Ermolaev</h1>
 
-**Frontend Developer** | Software Engineering Student  
-Currently studying at the University of Europe for Applied Sciences.
-
----
-
-## 🚀 About Me
-
-- 🌍 Living in Germany for 2 years, originally from Russia.
-- 🎯 My goal: To reach the top of the Frontend Developer profession!
-- 💡 I’m actively seeking experience through internships, company projects, and business communication.
+<p align="center">
+  <b>Frontend & Backend Developer</b> • Software Engineering Student<br/>
+  University of Europe for Applied Sciences
+</p>
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🌟 About Me
 
-- **Languages & Tools:** HTML • CSS • JavaScript • MySQL
-- **Frameworks:** React • Next.js
+- 🌍 Based in Germany (originally from Russia)  
+- 🎯 Goal: Become a world-class Frontend & Backend Developer  
+- 💼 Looking for internships, real-world projects & collaboration opportunities  
+- 💡 Passionate about clean architecture, UI/UX, and scalable backend systems  
 
 ---
 
-## 🌊 Favorite Project
+## 🛠️ Tech Stack
 
-- [vilamourasurfing.github.io](https://github.com/melenae/vilamourasurfing.github.io)  
-  _A showcase of my passion for web development and design._
+### **Frontend**
+<p>
+  • HTML • CSS • JavaScript  
+  • React • Next.js  
+</p>
+
+### **Backend**
+<p>
+  • Python • Django  
+  • PostgreSQL • MySQL  
+  • REST APIs • Event-Driven Architecture  
+  • Redis caching  
+  • Kafka (producers, consumers, synchronization flows)  
+</p>
+
+### **DevOps & Tools**
+<p>
+  • Docker Compose  
+  • Virtual Environments  
+  • Environment Variables  
+  • SQL Queries  
+</p>
+
+---
+
+## 🧩 Featured Projects
+
+### 🔹 **Task Manager – FullStack Web App**
+- Issue tracking (create/update/status)
+- Project & team management  
+- Role-based access (admin/user)  
+- Kafka event processing (producer/consumer integration)  
+- Django backend with PostgreSQL & Redis  
+
+### 🔹 **Web Design Project**
+- **vilamourasurfing.github.io**  
+  A creative frontend project showing UI/UX passion.
 
 ---
 
 ## 🎓 Education
 
-- **Software Engineering** (BSc)
-- University of Europe for Applied Sciences
+**BSc – Software Engineering**  
+University of Europe for Applied Sciences • 2023–present
 
 ---
 
 ## 📫 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/artem-ermolaev-508618360)
-- Email: ermo.artem@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/artem-ermolaev-508618360  
+- **GitHub:** https://github.com/melenae  
+- **Email:** ermo.artem@gmail.com  
 
 ---
 
-> “I believe that continuous learning, practical experience, and effective collaboration are the keys to becoming a world-class Frontend Developer.”
+<div align="center">
+  <i>“Continuous learning and building real products is the path to mastery.”</i>
+</div>
